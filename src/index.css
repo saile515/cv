@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: Noto;
+  src: url(/noto.ttf);
+}
+
+@theme {
+  --font-noto: Noto;
+
+  --color-*: initial;
+
+  --color-polar-1: #4c566a;
+  --color-polar-2: #434c5e;
+  --color-polar-3: #3b4252;
+  --color-polar-4: #2e3440;
+
+  --color-snow-1: #eceff4;
+  --color-snow-2: #e5e9f0;
+  --color-snow-3: #d8dee9;
+
+  --color-frost-1: #8fbcbb;
+  --color-frost-2: #88c0d0;
+  --color-frost-3: #81a1c1;
+  --color-frost-4: #5e81ac;
+
+  --color-red: #bf616a;
+  --color-orange: #d08770;
+  --color-yellow: #ebcb8b;
+  --color-green: #a3be8c;
+  --color-purple: #b48ead;
+}
