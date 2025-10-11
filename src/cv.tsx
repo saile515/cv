@@ -124,7 +124,7 @@ export function CV() {
                                         been the primary front-end developer and
                                         worked across the stack for the daughter
                                         company StålDirect. I have rebuilt the
-                                        front- end from the ground up with
+                                        front-end from the ground up with
                                         TypeScript and React, integrating
                                         technologies like WASM and SSR through
                                         React Router 7. I have also bridged the
