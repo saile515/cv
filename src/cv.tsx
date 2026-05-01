@@ -76,7 +76,6 @@ export function CV() {
                         <ul>
                             <li>React</li>
                             <li>React Router 7</li>
-                            <li>Next.js</li>
                             <li>ASP.NET</li>
                             <li>WebAssembly</li>
                             <li>TailwindCSS</li>
@@ -88,6 +87,7 @@ export function CV() {
                             <li>Gitea</li>
                             <li>Docker</li>
                             <li>OpenGL/WebGL</li>
+                            <li>Raspberry Pi Pico</li>
                         </ul>
                     </div>
                     <div className="relative min-w-64 grow">
@@ -101,9 +101,9 @@ export function CV() {
                 <div className="pl-8 grow divide-y-4 divide-polar-1">
                     <div className="py-4 flex flex-col gap-4">
                         <p>
-                            Full-stack developer with roughly 7 years of
-                            programming experience, including more than 1 year
-                            of full-time professional experience. Passionate
+                            Full-stack developer with 7 years of
+                            programming experience, including 2 years
+                            of full-time work experience. Passionate
                             about programming and computers, especially software
                             architecture and low- level development. Currently
                             looking for new challenges to broaden my skills in
@@ -120,18 +120,12 @@ export function CV() {
                                         location="SkyTech AB"
                                         from={new Date("2024-06-13")}
                                         showMonth>
-                                        During my time at SkyTech AB, I have
-                                        been the primary front-end developer and
-                                        worked across the stack for the daughter
-                                        company StålDirect. I have rebuilt the
-                                        front-end from the ground up with
-                                        TypeScript and React, integrating
-                                        technologies like WASM and SSR through
-                                        React Router 7. I have also bridged the
-                                        gap between the ASP.NET backend, C# CAD
-                                        engine, and the front-end, and set up a
-                                        proper CI/CD pipeline with Gitea,
-                                        Docker, and Linux VPSs.
+                                        During my time at SkyTech AB, I have worked with full-stack development, 
+										embedded development, and DevOps on several internal and customer-facing 
+										projects. Highlights include centralizing the deployment architecture by 
+										first creating a system for handling VMs, then later migrating to Coolify, 
+										and designing and building a system for automatating pricing for our powder 
+										coating company using machine learing and OpenCV.
                                     </Experience>
                                 </li>
                                 <li>
